@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script to allow our web_admin users to perform some 'yum' checks
+# This Script is to allow our web_admin users to perform some 'yum' checks
 # Usage: ./web_admin.sh <action> <package>
 # check-updates: No package to specify
 # check-installed: Please specify a package name

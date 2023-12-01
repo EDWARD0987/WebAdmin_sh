@@ -1,1 +1,1 @@
-# WebAdmin_sh
+# Bash shell script with exit codes
